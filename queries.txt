@@ -1,0 +1,24 @@
+
+14 ?- father(othman, nouf).
+true.
+
+14 ?-  father(khalid, sara).
+true.
+
+15 ?-  mother(hessah, nouf).
+true.
+
+16 ?- mother(nouf, yzeed).
+true.
+
+17 ?- sister(sara, yzeed).
+true .
+
+18 ?-  sister(aljawhara, sara).
+true .
+
+19 ?-  brother(yzeed, sara).
+true .
+
+20 ?- brother(yzeed, aljawhara).
+true 
